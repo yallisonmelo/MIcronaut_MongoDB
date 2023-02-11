@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: MIcronaut_MongoDB
+netty:
+  default:
+    allocator:
+      max-order: 3
